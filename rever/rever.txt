@@ -1,0 +1,13 @@
+1) Retirar usuario da tabela TReinos, pois, já existe na rotina
+
+2) Exercicios:
+- Pernas
+- Braço
+- Panturillha
+
+3) Relaciona com treinos 
+
+4) Treino receber progresso_peso
+
+5) Tabela série sai
+    - Campo na tabela treino
